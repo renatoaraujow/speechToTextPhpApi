@@ -13,7 +13,8 @@ A API contém as seguintes características:
  - Para ver um exemplo vá até o projeto **speechToTextJsApp/**
 
 ## Executando o projeto
-	
+
+ - Criar pasta ./resources/
  - Para gerar uma chave de autenticação na Google Cloud, siga os passos descritos [**neste tutorial**](https://cloud.google.com/video-intelligence/docs/common/auth)
  - Coloque o arquivo JSON gerado na pasta **./keys/**
  - No arquivo **speechToTextPhpApi/index.php** coloque o nome do seu arquivo na váriavel ```$fileNameGoogleKey```
