@@ -1,4 +1,4 @@
-# API Speech To Text PHP API
+# Speech To Text PHP API
 
 API desenvolvida para comunicar com o Google Speech.
 
