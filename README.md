@@ -20,8 +20,16 @@ A API contém as seguintes características:
  - No arquivo **./index.php** coloque o nome do seu arquivo na váriavel ```$fileNameGoogleKey```
  - Baixe e instale o [**Composer**](https://getcomposer.org/)
  - Após a instalação do composer, abra um terminal e digite:
- - ```git clone https://github.com/renatopa/speechToTextPhpApi.git```
- - ```git clone https://github.com/renatopa/speechToTextJsApp.git```
- - ```cd speechToTextPhpApi```
- - ```composer install```
+ ```sh
+ $ git clone https://github.com/renatopa/speechToTextPhpApi.git
+ ```
+ ```sh
+ $ git clone https://github.com/renatopa/speechToTextJsApp.git
+ ```
+ ```sh
+ $ cd speechToTextPhpApi
+ ```
+ ```sh
+ $ composer install
+ ```
  - Depois disso abra o navegador e navegue até a pasta do projeto **speechToTextJsApp/**
