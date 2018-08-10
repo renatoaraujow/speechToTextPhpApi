@@ -22,14 +22,11 @@ A API contém as seguintes características:
  - Após a instalação do composer, abra um terminal e digite:
  ```sh
  $ git clone https://github.com/renatopa/speechToTextPhpApi.git
- ```
- ```sh
+ 
  $ git clone https://github.com/renatopa/speechToTextJsApp.git
- ```
- ```sh
+
  $ cd speechToTextPhpApi
- ```
- ```sh
+
  $ composer install
  ```
  - Depois disso abra o navegador e navegue até a pasta do projeto **speechToTextJsApp/**
